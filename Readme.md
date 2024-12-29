@@ -7,7 +7,7 @@ BlockSure is a decentralized escrow service built on the blockchain. It provides
 ## Contract Details
 
 - **Contract Address**: `0x13B1AA8fD3B12bf00103D3cF86e42F46F7933881`
-- **Network**: Neo X Testnet T4
+- **Network**: Neo X Mainnet
 
 ## Features
 
@@ -19,7 +19,7 @@ BlockSure is a decentralized escrow service built on the blockchain. It provides
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0x13B1AA8fD3B12bf00103D3cF86e42F46F7933881)
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x13B1AA8fD3B12bf00103D3cF86e42F46F7933881)
 - **Coin Used**: GAS
 
 ## How It Works
